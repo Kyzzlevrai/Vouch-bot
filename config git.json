@@ -1,0 +1,30 @@
+{
+    "token": "YOUR TOKEN",
+    "prefix": "+",
+
+    "moderator_roles": [
+        1357398777828343928
+    ],
+
+    "moderation_channel": 1357398732093657330,
+
+    "creator": 1327155156285919242,
+
+    "donators": [
+        1327155156285919242
+    ],
+
+    
+    "blacklist": [],
+
+    "footer": "Made by @kyzzlevrai on twitter",
+    "bot_status": "Vouches...",
+    "badge_emojis": {
+        "50+ Vouches": "<a:Oui:1357767152178036797>",   
+        "100+ Vouches": "<a:Oui:1357767152178036797>",
+        "Creator": "<a:9455yellowcrown:1357767535503872020>",
+        "Moderator": "<:Badge_Uses_AutoMod:1357766998578303077>",
+        "Donator": "<a:emoji_20:1357767217059725425>"
+    }
+
+}
